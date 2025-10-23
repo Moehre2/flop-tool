@@ -1,0 +1,3 @@
+[submodule "sdfglib"]
+	path = sdfglib
+	url = git@github.com:daisytuner/sdfglib.git
